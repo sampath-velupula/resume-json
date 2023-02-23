@@ -1,0 +1,225 @@
+{
+  "basics": {
+    "name": "Sampath Velupula",
+    "label": "Principal Software Engineer",
+    "image": "",
+    "email": "sampath.velupula@gmail.com",
+    "phone": "(925) 998-3725",
+    "url": "https://github.com/sampath-velupula",
+    "summary": "Experienced engineer with a passion for web/mobile/data in love with everything and a strong understanding of the fundamentals of computing and software development practices.",
+    "location": {
+      "address": "4652 Corday Ct",
+      "postalCode": "CA 94588",
+      "city": "Pleasanton",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIN",
+        "username": "sampath-velupula",
+        "url": "https://www.linkedin.com/in/sampath-velupula-5322461/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Yahoo Inc.",
+      "position": "Principal Software Engineer",
+      "url": "https://dev.flurry.com",
+      "startDate": "2019-01-15",
+      "endDate": "",
+      "summary": "Designing and developing major features of Flurry Mobile Analytics used in more than one million apps. (250K Developers, 1 Million Apps. 2.6 Billion Devices, 10 Billion Daily Sessions)",
+      "highlights": [
+        "A lead engineer on a team of 6 responsible for all things React & Node.js for the Flurry Analytics Developer Portal. This includes maintaining existing functionality, along with design and implementation of new features and functionality for our users. I also handle testing (unit & functional), along with maintaining our CI/CD pipeline using centrally-managed screwdriver.cd and Kubernetes.",
+        "Defined architecture design for front (React) and middle (node.js) tiers.",
+        "Designing and implementing Flurry Performance Metrics and Crash Report.",
+        "Manage and develop features for Druid, HBase and Airflow",
+        "Conceptualized and built core application functionality.",
+        "Maintained application infrastructure (Kubernetes, CI/CD pipeline health, automated testing).",
+        "Mentored and trained a team of 5.",
+        "Acted as primary point of contact with internal dependent teams and premium third-party partners.",
+        "Responsible for setting up Flurry’s AWS infrastructure and migrating legacy services to AWS.",
+        "Responsible for creating CI/CD pipelines for all of Flurry’s services and migrating Flurry’s entire front-end to Kubernetes."
+      ]
+    },
+    {
+      "name": "Yahoo Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://www.adtech.yahooinc.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-01-15",
+      "summary": "YAP (Yahoo's supply-side platform)",
+      "highlights": [
+        "Built VPAID JavaScript player to serve video ads with all functionalities supported by VPAID and VAST specs.",
+        "Developed a native Adap.tv JavaScript viewability detection for JS player, so our JS player will be able to tell if an ad slot is in-view or not-in-view.",
+        "Built page URL and ad slot size JS detection.",
+        "Single-handedly developed a full-featured and mobile-friendly responsive UI to customize video ads and campaigns, as well as widgets, and view analytics reports along with an intuitive dashboard for the same.",
+        "Worked with Analytics & Reporting team as well as user-facing console team.",
+        "Design new APIs. Analyze performance tradeoffs. Provide better solutions.",
+        "Design and architect the effort to bring all mobile app (including Yahoo O&O) supply through YAP, which allowed delivery of new features and across the board quickly."
+      ]
+    },
+    {
+      "name": "Certent Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://insightsoftware.com/certent/",
+      "startDate": "2007-02-10",
+      "endDate": "2016-04-30",
+      "summary": "Certent (previously Equity Administration Solutions Inc.) combines world-class financial and SEC reporting along with a robust administration platform and participant portal for grant delivery, stock transactions and notifications. Certent’s web-based collaboration platform has redefined the way companies manage and report on equity compensation and revolutionized the way stock administration is done.",
+      "highlights": [
+        "UI/UX Makeover – (Angular.js, C#, JavaScript, ASP.NET Web API/MVC, Entity Framework, Oracle)",
+        "Notifications Module – MEAN (MongoDB, Express.js, Angular.js, Node.js), Socket.IO",
+        "Section 16 Reporting – ASP.NET Web Forms, ADO.NET, ODP, Oracle",
+        "Report Engine – jQuery, jQuery UI, ASP.NET Web Forms, Controls, Bootstrap",
+        "Automation Framework – C#, xUnit, TeamCity, Selenium WebDriver, RESTSharp, MSBuild, Appium",
+        "Reports/Services – WCF, ASP.NET Web Services, SOAP, Windows Services"
+      ]
+    },
+    {
+      "name": "Marlabs, Inc.",
+      "position": "Software Engineer",
+      "url": "https://www.builderhomesite.com/",
+      "startDate": "2006-05-10",
+      "endDate": "2007-02-01",
+      "summary": "Designed and developed Connection Time Website (CTW). CTW is used to integrate with the service provider systems to develop partnership deals with customers for each of the communities. Windows service is used to update the Providers, Buyers, Hierarchy and addresses using the data feeds provided.",
+      "highlights": [
+        "Developed the administration web application and consumer web interfaces using ASP.NET 2.0 and C#.",
+        "Worked on the modules implementing the business logic, data model and service model in C# and ADO.NET.",
+        "Developed a Windows Service for processing the provider information, parsing the XML & CSV files and calling an XML Web Service.",
+        "Designed and developed report generation module using LogiXML Reporting Services."
+      ]
+    },
+    {
+      "name": "Stratum Global Inc.",
+      "position": "Application Developer",
+      "url": "https://www.stratumglobal.com",
+      "startDate": "2005-06-15",
+      "endDate": "2006-04-30",
+      "summary": "Stratum Global provides a complete integrated enterprise RFID software solution suite called TagNet.",
+      "highlights": [
+        "Developed, engineered and implemented TagMap™ application deployed on an RFID handheld computer/reader combination.",
+        "Developed TagTrack™ application for Inventory Location Management using C#."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Whitebox Learning",
+      "position": "Instructor",
+      "url": "http://www.whitebox-learning.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Taught Javascript, Java and frameworks to aspiring software engineers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Dakota State University",
+      "url": "https://ndsu.edu/",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2003-01-01",
+      "endDate": "2006-01-01",
+      "score": "3.6",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "AMF (All Member Focused) Award",
+      "date": "2019-01-01",
+      "awarder": "Yahoo, Inc.",
+      "summary": "Live NFL Streaming Project."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "SCJP",
+      "date": "2006-01-01",
+      "issuer": "Sun Microsystems"
+    },
+    {
+      "name": "MCAD",
+      "date": "2006-01-01",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "AWS",
+      "date": "2023-01-01",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Tools to Aid Knowledge Management for Conference Resources",
+      "publisher": "North Dakota State University",
+      "releaseDate": "2006-10-01",
+      "url": "https://books.google.com/books/about/Tools_to_Aid_Knowledge_Management_for_Co.html?id=0Y4nOAAACAAJ",
+      "summary": "Academic conferences provide an ideal outlet for the presentation of numerous articles and research papers, often published in academic journals. Publications are generally provided in a standard format: Portable Document Format (PDF). While this format is useful because it offers consistency and a dependable method of information exchange, it lacks machine-friendly mechanisms for sorting, classifying, and searching information. To accomplish these necessary functions, conference data must first be enriched with metadata. The goal of this paper is to build a Conference Knowledge Management System where data can be parsed, manipulated, stored, queried, and accessed by users."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["JavaScript", "CSS", "Typescript", "React", "Angular"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["JavaScript", "Python", "Java", "C++"]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "Master",
+      "keywords": ["AWS", "Docker", "Jenkins", "Git"]
+    },
+    {
+      "name": "Data",
+      "level": "Master",
+      "keywords": ["Druid", "Kafka", "Storm", "Hadoop"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native-speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Tennis", "Badminton"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Paul Donnely",
+      "reference": "Available on request"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TalentScreen",
+      "description": "Portal for Talent Management which includes NLP, real-time analytics with Druid",
+      "keywords": [
+        "NLP, Druid, React Native, ElasticSearch, Node.js, MongoDB, React"
+      ],
+      "url": "https://talentscreen.io",
+      "roles": ["Founder"],
+      "startDate": "2017-01-01",
+      "endDate": "2021-01-01",
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "resume-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "validate": "resume validate --resume ./resume.json",
+    "serve": "resume serve --resume ./resume.json --theme straightforward",
+    "export": "resume export --resume ./resume.json --theme macchiato",
+    "pdf": "$npm_execpath run export -- --format pdf \"./resume.pdf\"",
+    "html": "$npm_execpath run export -- --format html \"./$(date +'%Y-%m-%d').html\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-anthonyjdella-mocha-responsive": "^1.0.4",
+    "jsonresume-theme-eloquent-mod": "^4.24.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-lowmess": "0.0.11",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "jsonresume-theme-stackoverflowed": "^1.1.5",
+    "jsonresume-theme-straightforward": "^0.2.0",
+    "jsonresume-theme-waterfall": "^1.0.2",
+    "resume-cli": "^3.0.8"
+  }
+}

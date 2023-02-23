@@ -1,0 +1,3 @@
+Transitioned the project from purely manual testing to 100+ automated Cypress UI tests integrated in the project's CI pipeline 
+ Wrote an automation test scripts using Python, JavaScript, and TypeScript implementing Cypress Automation Framework
+ 

@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Sampath",
+    "label": "Principal Front-end Engineer",
+    "image": "",
+    "email": "kumarsampath.ip@gmail.com",
+    "phone": "(925) 315-7286",
+    "url": "https://github.com/sampath-velupula",
+    "summary": "Experienced engineer with a passion for web/mobile/data in love with everything and a strong understanding of the fundamentals of computing and software development practices.",
+    "profiles": [
+      {
+        "network": "LinkedIN",
+        "username": "sampath-velupula",
+        "url": "https://www.linkedin.com/in/sampath-velupula-5322461/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Yahoo Inc.",
+      "position": "Principal Front-end Engineer",
+      "url": "https://dev.flurry.com",
+      "startDate": "2019-01-15",
+      "endDate": "",
+      "summary": "Designing and developing major features of Flurry Mobile Analytics used in more than one million apps. (250K Developers, 1 Million Apps. 2.6 Billion Devices, 10 Billion Daily Sessions)",
+      "highlights": [
+        "A lead engineer on a team of 6 responsible for all things React & Node.js for the Flurry Analytics Developer Portal. This includes maintaining existing functionality, along with design and implementation of new features and functionality for our users. I also handle testing (unit & functional), along with maintaining our CI/CD pipeline using centrally-managed screwdriver.cd and Kubernetes.",
+        "Defined architecture design for front (React) and middle (Node.js) tiers.",
+        "Designed and developed of Server Side Rendered Web Applications built with React.JS, Next.js, Typescript, Javascript, redux, redux-saga, Jest & Node.js",
+        "Developed reusable react components, Micro Front End (MFE) and published to internal Nexus npm registry",
+        "Used Redux to manage the application state and applying middleware such as redux-observable, redux-thunk, redux-saga and GraphQL.",
+        "Maintained application infrastructure (Kubernetes, CI/CD pipeline health, automated testing).",
+        "Implemented Functional and Unit Tests using the React-Testing-Library, Jest and Enzyme libraries ",
+        "Developed component level styling using Pure and latest CSS methodologies in React JS like CSS-in-Js, Styled-Components and css modules for performance",
+        "Developed server side Next JS application and deployed to serverless environment using AWS Lambda and CloudFront.",
+        "Responsible for creating CI/CD pipelines for all of Flurry’s services and migrating Flurry’s entire front-end to Kubernetes."
+      ]
+    },
+    {
+      "name": "Yahoo Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://www.adtech.yahooinc.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-01-15",
+      "summary": "YAP (Yahoo's supply-side platform)",
+      "highlights": [
+        "Implemented highly scalable and reusable UI components using React, Redux and TypeScript to ship out complex features",
+        "Implemented  REST and GraphQL APIs using NodeJS",
+        "Implemented customer facing mobile application to create profile and registration module with React native and GraphQL",
+        "Single-handedly developed a full-featured and mobile-friendly responsive UI to customize video ads and campaigns, as well as widgets, and view analytics reports along with an intuitive dashboard for the same.",
+        "Worked with Analytics & Reporting team as well as user-facing console team.",
+        "Design new APIs. Analyze performance tradeoffs. Provide better solutions.",
+        "Design and architect the effort to bring all mobile app (including Yahoo O&O) supply through YAP, which allowed delivery of new features and across the board quickly."
+      ]
+    },
+    {
+      "name": "Certent Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://insightsoftware.com/certent/",
+      "startDate": "2007-02-10",
+      "endDate": "2016-04-30",
+      "summary": "Certent (previously Equity Administration Solutions Inc.) combines world-class financial and SEC reporting along with a robust administration platform and participant portal for grant delivery, stock transactions and notifications. Certent’s web-based collaboration platform has redefined the way companies manage and report on equity compensation and revolutionized the way stock administration is done.",
+      "highlights": [
+        "UI/UX Makeover – (Angular.js, C#, JavaScript, ASP.NET Web API/MVC, Entity Framework, Oracle)",
+        "Notifications Module – MEAN (MongoDB, Express.js, Angular.js, Node.js), Socket.IO",
+        "Section 16 Reporting – ASP.NET Web Forms, ADO.NET, ODP, Oracle",
+        "Report Engine – jQuery, jQuery UI, ASP.NET Web Forms, Controls, Bootstrap",
+        "Automation Framework – C#, xUnit, TeamCity, Selenium WebDriver, RESTSharp, MSBuild, Appium",
+        "Reports/Services – WCF, ASP.NET Web Services, SOAP, Windows Services"
+      ]
+    },
+    {
+      "name": "Marlabs, Inc.",
+      "position": "Software Engineer",
+      "url": "https://www.builderhomesite.com/",
+      "startDate": "2006-05-10",
+      "endDate": "2007-02-01",
+      "summary": "Designed and developed Connection Time Website (CTW). CTW is used to integrate with the service provider systems to develop partnership deals with customers for each of the communities. Windows service is used to update the Providers, Buyers, Hierarchy and addresses using the data feeds provided.",
+      "highlights": [
+        "Developed the administration web application and consumer web interfaces using ASP.NET 2.0 and C#.",
+        "Worked on the modules implementing the business logic, data model and service model in C# and ADO.NET.",
+        "Developed a Windows Service for processing the provider information, parsing the XML & CSV files and calling an XML Web Service.",
+        "Designed and developed report generation module using LogiXML Reporting Services."
+      ]
+    },
+    {
+      "name": "Stratum Global Inc.",
+      "position": "Application Developer",
+      "url": "https://www.stratumglobal.com",
+      "startDate": "2005-06-15",
+      "endDate": "2006-04-30",
+      "summary": "Stratum Global provides a complete integrated enterprise RFID software solution suite called TagNet.",
+      "highlights": [
+        "Developed, engineered and implemented TagMap™ application deployed on an RFID handheld computer/reader combination.",
+        "Developed TagTrack™ application for Inventory Location Management using C#."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Dakota State University",
+      "url": "https://ndsu.edu/",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2003-01-01",
+      "endDate": "2006-01-01",
+      "score": "3.6",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front end development",
+      "level": "Master",
+      "keywords": ["React", "Angular", "Node.js", "React", "Angular"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["JavaScript", "Python", "Java", "C++"]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "Master",
+      "keywords": ["AWS", "Docker", "Jenkins", "Git"]
+    },
+    {
+      "name": "Data",
+      "level": "Master",
+      "keywords": ["Druid", "Kafka", "Storm", "Hadoop"]
+    }
+  ]
+}

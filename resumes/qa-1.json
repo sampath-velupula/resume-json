@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Sampath",
+    "label": "Principal Quality Engineer",
+    "image": "",
+    "email": "kumarsampath.ip@gmail.com",
+    "phone": "(925) 315-7286",
+    "url": "https://github.com/sampath-velupula",
+    "summary": "Experienced QA engineer with a strong understanding of the fundamentals of computing and software development practices. Skilled in Functional Testing, Automation Testing (Cypress, Selenium, Appium, TestNG, Cucumber, Java and Javascript), Mobile Testing and API Testing.",
+    "profiles": [
+      {
+        "network": "LinkedIN",
+        "username": "sampath-velupula",
+        "url": "https://www.linkedin.com/in/sampath-velupula-5322461/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Yahoo Inc.",
+      "position": "Principal Quality Engineer",
+      "url": "https://dev.flurry.com",
+      "startDate": "2019-01-15",
+      "endDate": "",
+      "summary": "Designing and automated major features of Flurry Mobile Analytics used in more than one million apps. (250K Developers, 1 Million Apps. 2.6 Billion Devices, 10 Billion Daily Sessions)",
+      "highlights": [
+        "Responsible for automating frontend of the Application using Cypress Automation Framework.",
+        "Responsible for automating the mobile application using Appium and Javascript",
+        "Used SuperTest and Node.js to automate REST API",
+        "Used JMeter and BlazeMeter for performance testing",
+        "Worked with Saucelabs for cloud based testing with different environments",
+        "Worked with Jenkins to setup CICD and maintain pipeline",
+        "Experience with docker containers and AWS EKS",
+        "Plan, execute, and oversee inspection and testing of product to confirm quality and conformance to specifications and deliverables",
+        "Involved in Code Review activities on Github",
+        "Analytically examining all bug reports, prioritizing necessary tests, and streamlining application functions",
+        "Working closely with QA, developers, product managers, designers, and others"
+      ]
+    },
+    {
+      "name": "Yahoo Inc.",
+      "position": "Senior Quality Engineer",
+      "url": "https://www.adtech.yahooinc.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-01-15",
+      "summary": "YAP (Yahoo's supply-side platform)",
+      "highlights": [
+        "Leaded the QA automation team and defined QA guidelines.",
+        "Automated 90% web regression (1500), 40% mobile regression(400) and 60% server regression (1000) in one year.",
+        "Helped in reducing overall release time by ~70% and increased the quality of the product by ~80%. ",
+        "Developed an automation testing framework in WebDriverIO, SuperTest, Node.js, Mocha, Chai for UI, API, and integration testing.",
+        "Implemented Allure Reporting to increase usability and accessibility for development team",
+        "Create a Performance Testing framework with Jmeter from scratch and integrate with Jenkins"
+      ]
+    },
+    {
+      "name": "Certent Inc.",
+      "position": "Senior Quality Engineer",
+      "url": "https://insightsoftware.com/certent/",
+      "startDate": "2007-02-10",
+      "endDate": "2016-04-30",
+      "summary": "Certent (previously Equity Administration Solutions Inc.) combines world-class financial and SEC reporting along with a robust administration platform and participant portal for grant delivery, stock transactions and notifications. Certent’s web-based collaboration platform has redefined the way companies manage and report on equity compensation and revolutionized the way stock administration is done.",
+      "highlights": [
+        "Created automated test scripts via SeleniumWebDriver for UI and functional testing which can be added to TestNG based automatic regression test suite.",
+        "Involved in creating Modular Automation Framework using Java, Selenium WebDriver, Page Object Model, PageFactory, ApachePOI, Cucumber, AutoIT, TestNG and Java. ",
+        "Used Selenium WebDriver Automation Scripts and handled different reporting structures using TestNG Listeners and Jenkins configurations.",
+        "Performed RESTful Web Services automation testing using HttpClient along with TestNG, also used Google Guava, slf4j, Jackson Library to parse JSON response. ",
+        "Executed JMeter Scenarios for different thread groups for doing Load, Stress and endurance tests for the Web Application.",
+        "Performed BDD (Behavior Driven Development) with Data Driven Test Automation Framework using Cucumber Features, Scenarios and Step Definitions in Gherkins format."
+      ]
+    },
+    {
+      "name": "Marlabs, Inc.",
+      "position": "Quality Engineer",
+      "url": "https://www.builderhomesite.com/",
+      "startDate": "2006-05-10",
+      "endDate": "2007-02-01",
+      "summary": "Designed and developed Connection Time Website (CTW). CTW is used to integrate with the service provider systems to develop partnership deals with customers for each of the communities. Windows service is used to update the Providers, Buyers, Hierarchy and addresses using the data feeds provided.",
+      "highlights": [
+        "Involved in Development of Test Scripts using Automation Framework with Java, Selenium WebDriver, Maven, TestNG and ApachePOI using Patterns Like Page Object, Data Driven Testing.",
+        "Worked with ID, CSS Selectors, and XPath locators to identify WebElements and created Automation Framework.",
+        "Created TestSuites and performed parameterization using properties files for SOAPUI test cases using Groovy Script, PropertyTransfer and analyzed the response and made logical assertions for WSDL in SOAPUI.",
+        "Performed data driven testing by using JDBC as a data source in SOAPUI and configured SQL queries to fetch data from the database."
+      ]
+    },
+    {
+      "name": "Stratum Global Inc.",
+      "position": "Application Developer",
+      "url": "https://www.stratumglobal.com",
+      "startDate": "2005-06-15",
+      "endDate": "2006-04-30",
+      "summary": "Stratum Global provides a complete integrated enterprise RFID software solution suite called TagNet.",
+      "highlights": [
+        "Developed, engineered and implemented TagMap™ application deployed on an RFID handheld computer/reader combination.",
+        "Developed TagTrack™ application for Inventory Location Management using C#."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Dakota State University",
+      "url": "https://ndsu.edu/",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2003-01-01",
+      "endDate": "2006-01-01",
+      "score": "3.6",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "AMF (All Member Focused) Award",
+      "date": "2019-01-01",
+      "awarder": "Yahoo, Inc.",
+      "summary": "Live NFL Streaming Project."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "SCJP",
+      "date": "2006-01-01",
+      "issuer": "Sun Microsystems"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Automation",
+      "level": "Master",
+      "keywords": [
+        "Cypress",
+        "Selenium",
+        "WebDriverIO",
+        "RESTAssured",
+        "JMeter",
+        "Appium"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["JavaScript", "CSS", "Typescript", "React", "Angular"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["JavaScript", "Python", "Java", "C++"]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "Master",
+      "keywords": ["AWS", "Docker", "Jenkins", "Git"]
+    },
+    {
+      "name": "Data",
+      "level": "Master",
+      "keywords": ["Druid", "Kafka", "Storm", "Hadoop"]
+    }
+  ]
+}
